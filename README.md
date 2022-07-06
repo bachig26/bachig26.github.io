@@ -1,2 +1,2 @@
 # bachig26.github.io
-Initial `./bachig26` GitHub Page
+Bharathi's Personal GH .io Page
