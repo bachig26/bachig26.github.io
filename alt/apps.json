@@ -1,6 +1,6 @@
 {
   "name": "StreamerApp",
-  "identifier": "com.mo.streamer.ios",
+  "identifier": "com.streamer.ios",
   "apps": [
     {
       "name": "Streamer",
